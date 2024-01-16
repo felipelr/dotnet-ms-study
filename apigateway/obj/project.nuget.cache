@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AG02/hqLDY5JR5CdZorvbLrjrGLLBz5NcP5wkuUkiFQAjCab7beZhfKIBNOMcXLeRDjUzum9lUN2NdwBXisyCg==",
+  "dgSpecHash": "8M51beBWETvLmhXI5+Qj4NFAO9Yvrw5keArvYcqKxsVdVPPlKf48Scjy5eM5/9lh5OKiQi2QiZaDFLSLYOcmiA==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\dotnet\\dotnet-ms-study1\\apigateway\\apigateway.csproj",
+  "projectFilePath": "C:\\Workspace\\dotnet\\dotnet-ms-study1\\ApiGateway\\ApiGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

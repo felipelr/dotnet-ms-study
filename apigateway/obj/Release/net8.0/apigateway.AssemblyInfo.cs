@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("apigateway")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ApiGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32bae368093f6f07a81006dd291b4e82bdfa19c6")]
-[assembly: System.Reflection.AssemblyProductAttribute("apigateway")]
-[assembly: System.Reflection.AssemblyTitleAttribute("apigateway")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+959459b95c2cc10e1277ad97e8f8c98fe38c3e4e")]
+[assembly: System.Reflection.AssemblyProductAttribute("ApiGateway")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ApiGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -2,8 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\apigateway",
-    "\\microservices"
+    "\\apigateway\\Properties",
+    "\\microservices",
+    "\\microservices\\patients",
+    "\\microservices\\patients\\Api",
+    "\\microservices\\patients\\Api\\Properties",
+    "\\microservices\\professionals",
+    "\\microservices\\professionals\\Api",
+    "\\microservices\\professionals\\Api\\Properties"
   ],
-  "SelectedNode": "\\apigateway\\Program.cs",
+  "SelectedNode": "\\apigateway\\appsettings.Development.json",
   "PreviewInSolutionExplorer": false
 }

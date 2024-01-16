@@ -1,0 +1,16 @@
+version: '3.4'
+name: 'ms-patients'
+
+services:
+  patients:
+    image: ${DOCKER_REGISTRY-}image
+    hostname: patients
+    build: 
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - "5002:5002"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:5002
+      - ASPNETCORE_HTTP_PORT=5002

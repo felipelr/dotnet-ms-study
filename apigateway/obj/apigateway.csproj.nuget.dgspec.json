@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\dotnet\\dotnet-ms-study1\\apigateway\\apigateway.csproj": {}
+    "C:\\Workspace\\dotnet\\dotnet-ms-study1\\ApiGateway\\ApiGateway.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\dotnet\\dotnet-ms-study1\\apigateway\\apigateway.csproj": {
+    "C:\\Workspace\\dotnet\\dotnet-ms-study1\\ApiGateway\\ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\dotnet\\dotnet-ms-study1\\apigateway\\apigateway.csproj",
-        "projectName": "apigateway",
-        "projectPath": "C:\\Workspace\\dotnet\\dotnet-ms-study1\\apigateway\\apigateway.csproj",
+        "projectUniqueName": "C:\\Workspace\\dotnet\\dotnet-ms-study1\\ApiGateway\\ApiGateway.csproj",
+        "projectName": "ApiGateway",
+        "projectPath": "C:\\Workspace\\dotnet\\dotnet-ms-study1\\ApiGateway\\ApiGateway.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\dotnet\\dotnet-ms-study1\\apigateway\\obj\\",
+        "outputPath": "C:\\Workspace\\dotnet\\dotnet-ms-study1\\ApiGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
