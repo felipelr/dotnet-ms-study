@@ -572,9 +572,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -616,5 +613,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Yarp.ReverseProxy' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-jrjw-qgr2-wfcg",
+      "libraryId": "Yarp.ReverseProxy",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
