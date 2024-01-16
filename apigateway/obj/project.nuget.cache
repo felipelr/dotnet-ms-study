@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8M51beBWETvLmhXI5+Qj4NFAO9Yvrw5keArvYcqKxsVdVPPlKf48Scjy5eM5/9lh5OKiQi2QiZaDFLSLYOcmiA==",
+  "dgSpecHash": "l4yFxqaAHuoK6frn/jIa3BovuxkuUDT+R1PSFtl8en2lgqMZvW4M5PDUy5Z0Aro5+4mycycfsPxgAw1+5eEErg==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\dotnet\\dotnet-ms-study1\\ApiGateway\\ApiGateway.csproj",
   "expectedPackageFiles": [
@@ -14,16 +14,5 @@
     "C:\\Users\\felip\\.nuget\\packages\\system.io.hashing\\7.0.0\\system.io.hashing.7.0.0.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\yarp.reverseproxy\\2.0.0\\yarp.reverseproxy.2.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Yarp.ReverseProxy' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-jrjw-qgr2-wfcg",
-      "libraryId": "Yarp.ReverseProxy",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

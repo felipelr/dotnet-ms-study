@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mX8frHiytmokgoYaSiN69tE5fG9o9Ydj9c+FBowjyNIQQaZSozh8ry2qxBpz4dgwXFQem3/haFIM1BWWX63vpg==",
+  "dgSpecHash": "6nH+MjTBK99DSLPD9kjCsVxHASXeEnfyckIurRqEFzNl/aCmwxX9yfEylt+W909eCkuFtrsRmaqZEh8Lk0pTaQ==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\dotnet\\dotnet-ms-study1\\microservices\\professionals\\Api\\Api.csproj",
   "expectedPackageFiles": [

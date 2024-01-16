@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "albP/IyUJo0WPGXMhONCaL1ApTT2FdzQpZrkx7gbl95VikF8mMl7UvN5zzRj54TzZ/lewpuCsMSfB542G3BKVw==",
+  "dgSpecHash": "LbRr3enFUAdA3ppfCDR1JrZemBJTVkV12uMI8IKm/MbeOrr2+l5JHwyKhYCBjmeq9Nl+a9OyQoOt3ZsDbuaF4g==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\dotnet\\dotnet-ms-study1\\microservices\\patients\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

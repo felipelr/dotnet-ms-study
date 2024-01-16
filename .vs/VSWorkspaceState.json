@@ -1,16 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\apigateway",
-    "\\apigateway\\Properties",
-    "\\microservices",
     "\\microservices\\patients",
     "\\microservices\\patients\\Api",
-    "\\microservices\\patients\\Api\\Properties",
-    "\\microservices\\professionals",
     "\\microservices\\professionals\\Api",
-    "\\microservices\\professionals\\Api\\Properties"
+    "\\microservices\\professionals\\Api\\Properties",
+    "\\microservices\\professionals\\Domain"
   ],
-  "SelectedNode": "\\apigateway\\appsettings.Development.json",
+  "SelectedNode": "\\dotnet-ms-study1.sln",
   "PreviewInSolutionExplorer": false
 }

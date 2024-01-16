@@ -16,29 +16,23 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-var summaries = new[]
+app.MapGet("/", () =>
 {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
+    var patients =  Enumerable.Range(1, 5).Select(index =>
+        new Patient
         (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
+            Guid.NewGuid(),
+            $"Patient {index}",
+            DateOnly.FromDateTime(DateTime.Now.AddDays(index))
         ))
         .ToArray();
-    return forecast;
+    return patients;
 })
-.WithName("GetWeatherForecast")
+.WithName("ListAll")
 .WithOpenApi();
 
 app.Run();
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
+record Patient(Guid id, string name, DateOnly birthDate)
 {
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
