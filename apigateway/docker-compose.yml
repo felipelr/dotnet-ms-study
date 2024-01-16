@@ -10,6 +10,6 @@ services:
     ports:
       - "80:5000"
     environment:
-      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_ENVIRONMENT=docker
       - ASPNETCORE_URLS=http://+:5000
       - ASPNETCORE_HTTP_PORT=5000
